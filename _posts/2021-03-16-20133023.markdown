@@ -1,0 +1,169 @@
+---
+layout: post
+title: "대전광역시 유성구  봉명동 유성자이 아파트 실거래가 정보"
+date: 2021-03-15 15:31:51 +0900
+categories: 아파트 실거래가
+---
+
+BOBN 469-46
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[저촉]중로1류,[저촉]소로1류,[접합]중로1류
+DEAL_MM 02
+BLDG_NM 유성자이
+BUBN None
+HO_CODE 18
+ROAD_LEN 25m미만
+BLDG_CD 20133023
+LAND_MOVE1 201*
+LAND_MOVE2 토지개발사업 완료
+GRND_FLR_CNT -
+VL_RAT 881~885%
+BLDG_AREA 102.31
+APTFNO 14
+DEAL_DD 15
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>,[포함]재정비촉진지구<도시재정비 촉진을 위한/ 특별법>(유성시장 재정비촉진지구 봉명E구역)
+SUM_AMT 51,500
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 봉명동
+BUILD_YEAR 2010
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 3
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 469-46
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[저촉]중로1류,[저촉]소로1류,[접합]중로1류
+DEAL_MM 02
+BLDG_NM 유성자이
+BUBN None
+HO_CODE 69
+ROAD_LEN 25m미만
+BLDG_CD 20133023
+LAND_MOVE1 201*
+LAND_MOVE2 토지개발사업 완료
+GRND_FLR_CNT -
+VL_RAT 881~885%
+BLDG_AREA 102.31
+APTFNO 27
+DEAL_DD 5
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>,[포함]재정비촉진지구<도시재정비 촉진을 위한/ 특별법>(유성시장 재정비촉진지구 봉명E구역)
+SUM_AMT 55,000
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 봉명동
+BUILD_YEAR 2010
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 469-46
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[저촉]중로1류,[저촉]소로1류,[접합]중로1류
+DEAL_MM 01
+BLDG_NM 유성자이
+BUBN None
+HO_CODE 78
+ROAD_LEN 25m미만
+BLDG_CD 20133023
+LAND_MOVE1 201*
+LAND_MOVE2 토지개발사업 완료
+GRND_FLR_CNT -
+VL_RAT 881~885%
+BLDG_AREA 102.31
+APTFNO 29
+DEAL_DD 19
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>,[포함]재정비촉진지구<도시재정비 촉진을 위한/ 특별법>(유성시장 재정비촉진지구 봉명E구역)
+SUM_AMT 54,000
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 봉명동
+BUILD_YEAR 2010
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 3
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 469-46
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[저촉]중로1류,[저촉]소로1류,[접합]중로1류
+DEAL_MM 01
+BLDG_NM 유성자이
+BUBN None
+HO_CODE 107
+ROAD_LEN 25m미만
+BLDG_CD 20133023
+LAND_MOVE1 201*
+LAND_MOVE2 토지개발사업 완료
+GRND_FLR_CNT -
+VL_RAT 881~885%
+BLDG_AREA 122.89
+APTFNO 8
+DEAL_DD 18
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>,[포함]재정비촉진지구<도시재정비 촉진을 위한/ 특별법>(유성시장 재정비촉진지구 봉명E구역)
+SUM_AMT 57,000
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 봉명동
+BUILD_YEAR 2010
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 3
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 469-46
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[저촉]중로1류,[저촉]소로1류,[접합]중로1류
+DEAL_MM 01
+BLDG_NM 유성자이
+BUBN None
+HO_CODE 99
+ROAD_LEN 25m미만
+BLDG_CD 20133023
+LAND_MOVE1 201*
+LAND_MOVE2 토지개발사업 완료
+GRND_FLR_CNT -
+VL_RAT 881~885%
+BLDG_AREA 122.89
+APTFNO 34
+DEAL_DD 10
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>,[포함]재정비촉진지구<도시재정비 촉진을 위한/ 특별법>(유성시장 재정비촉진지구 봉명E구역)
+SUM_AMT 63,000
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 봉명동
+BUILD_YEAR 2010
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 2
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 469-46
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[저촉]중로1류,[저촉]소로1류,[접합]중로1류
+DEAL_MM 01
+BLDG_NM 유성자이
+BUBN None
+HO_CODE 22
+ROAD_LEN 25m미만
+BLDG_CD 20133023
+LAND_MOVE1 201*
+LAND_MOVE2 토지개발사업 완료
+GRND_FLR_CNT -
+VL_RAT 881~885%
+BLDG_AREA 102.31
+APTFNO 15
+DEAL_DD 7
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>,[포함]재정비촉진지구<도시재정비 촉진을 위한/ 특별법>(유성시장 재정비촉진지구 봉명E구역)
+SUM_AMT 51,500
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 봉명동
+BUILD_YEAR 2010
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 3
+ETC_STRCT 철근콘크리트구조
+
+

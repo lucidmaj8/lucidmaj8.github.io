@@ -1,0 +1,88 @@
+---
+layout: post
+title: "대전광역시 유성구  장대동 월드컵패밀리타운 아파트 실거래가 정보"
+date: 2021-03-15 15:31:40 +0900
+categories: 아파트 실거래가
+---
+
+BOBN 323-2
+LAND_USE_NM [포함]제3종일반주거지역,[포함]지구단위계획구역,[접합]제2종일반주거지역,[접합]중로2류,[접합]소로2류,[접합]어린이공원,[접합]완충녹지
+DEAL_MM 01
+BLDG_NM 월드컵패밀리타운
+BUBN None
+HO_CODE 75
+ROAD_LEN 25m미만
+BLDG_CD 11190
+LAND_MOVE1 200*
+LAND_MOVE2 구획정리완료
+GRND_FLR_CNT -
+VL_RAT 211~215%
+BLDG_AREA 84.9153
+APTFNO 6
+DEAL_DD 30
+DPOS_GBN 2
+LAND_USE_LAW [포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[저촉]상대정화구역<학교보건법>(유성초등학교)
+SUM_AMT 44,800
+CNTL_YMD None
+BC_RAT 11~15%
+DNAME 장대동
+BUILD_YEAR 2002
+JIBUN_NAME 대전광역시 유성구  장대동
+DONG_CODE 7
+ETC_STRCT 철근콘크리트벽식조
+
+
+BOBN 323-2
+LAND_USE_NM [포함]제3종일반주거지역,[포함]지구단위계획구역,[접합]제2종일반주거지역,[접합]중로2류,[접합]소로2류,[접합]어린이공원,[접합]완충녹지
+DEAL_MM 01
+BLDG_NM 월드컵패밀리타운
+BUBN None
+HO_CODE 63
+ROAD_LEN 25m미만
+BLDG_CD 11190
+LAND_MOVE1 200*
+LAND_MOVE2 구획정리완료
+GRND_FLR_CNT -
+VL_RAT 211~215%
+BLDG_AREA 84.9153
+APTFNO 3
+DEAL_DD 12
+DPOS_GBN 2
+LAND_USE_LAW [포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[저촉]상대정화구역<학교보건법>(유성초등학교)
+SUM_AMT 43,000
+CNTL_YMD None
+BC_RAT 11~15%
+DNAME 장대동
+BUILD_YEAR 2002
+JIBUN_NAME 대전광역시 유성구  장대동
+DONG_CODE 7
+ETC_STRCT 철근콘크리트벽식조
+
+
+BOBN 323-2
+LAND_USE_NM [포함]제3종일반주거지역,[포함]지구단위계획구역,[접합]제2종일반주거지역,[접합]중로2류,[접합]소로2류,[접합]어린이공원,[접합]완충녹지
+DEAL_MM 01
+BLDG_NM 월드컵패밀리타운
+BUBN None
+HO_CODE 79
+ROAD_LEN 25m미만
+BLDG_CD 11190
+LAND_MOVE1 200*
+LAND_MOVE2 구획정리완료
+GRND_FLR_CNT -
+VL_RAT 211~215%
+BLDG_AREA 125.7427
+APTFNO 7
+DEAL_DD 12
+DPOS_GBN 2
+LAND_USE_LAW [포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[저촉]상대정화구역<학교보건법>(유성초등학교)
+SUM_AMT 54,300
+CNTL_YMD None
+BC_RAT 11~15%
+DNAME 장대동
+BUILD_YEAR 2002
+JIBUN_NAME 대전광역시 유성구  장대동
+DONG_CODE 4
+ETC_STRCT 철근콘크리트벽식조
+
+

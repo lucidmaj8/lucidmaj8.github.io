@@ -1,0 +1,34 @@
+---
+layout: post
+title: "대전광역시 유성구  봉명동 위드리버 아파트 실거래가 정보"
+date: 2021-03-15 15:31:42 +0900
+categories: 아파트 실거래가
+---
+
+BOBN 678-4
+LAND_USE_NM [포함]일반상업지역,[포함]지구단위계획구역,[접합]대로1류,[접합]중로3류,[접합]경관광장
+DEAL_MM 01
+BLDG_NM 위드리버
+BUBN None
+HO_CODE 48
+ROAD_LEN 25m이상
+BLDG_CD 219657
+LAND_MOVE1 200*
+LAND_MOVE2 구획정리완료
+GRND_FLR_CNT -
+VL_RAT 591~595%
+BLDG_AREA 106.602
+APTFNO 6
+DEAL_DD 19
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>
+SUM_AMT 28,000
+CNTL_YMD None
+BC_RAT 51~55%
+DNAME 봉명동
+BUILD_YEAR 2004
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+

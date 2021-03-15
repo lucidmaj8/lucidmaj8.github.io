@@ -1,0 +1,61 @@
+---
+layout: post
+title: "대전광역시 유성구  덕명동 유성 숲 오투그란데 3차 아파트 실거래가 정보"
+date: 2021-03-15 15:31:45 +0900
+categories: 아파트 실거래가
+---
+
+BOBN 614
+LAND_USE_NM [포함]지구단위계획구역,[저촉]제3종일반주거지역,[접합]제2종일반주거지역,[접합]자연녹지지역,[접합]대로3류,[접합]중로2류,[접합]경관녹지
+DEAL_MM 02
+BLDG_NM 유성 숲 오투그란데 3차
+BUBN None
+HO_CODE 30
+ROAD_LEN 25m이상
+BLDG_CD 20394564
+LAND_MOVE1 201*
+LAND_MOVE2 분할되어 본번에 을 부함
+GRND_FLR_CNT -
+VL_RAT 201~205%
+BLDG_AREA 69.6035
+APTFNO 8
+DEAL_DD 1
+DPOS_GBN 2
+LAND_USE_LAW [포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[저촉]상대정화구역<학교보건법>(대전계산초등학교),[저촉]상대정화구역<학교보건법>(덕명중학교),[저촉]상대정화구역<학교보건법>(한밭대학교),[저촉]절대정화구역<학교보건법>(덕명중학교)
+SUM_AMT 32,000
+CNTL_YMD None
+BC_RAT 16~20%
+DNAME 덕명동
+BUILD_YEAR 2019
+JIBUN_NAME 대전광역시 유성구  덕명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 614
+LAND_USE_NM [포함]지구단위계획구역,[저촉]제3종일반주거지역,[접합]제2종일반주거지역,[접합]자연녹지지역,[접합]대로3류,[접합]중로2류,[접합]경관녹지
+DEAL_MM 01
+BLDG_NM 유성 숲 오투그란데 3차
+BUBN None
+HO_CODE 47
+ROAD_LEN 25m이상
+BLDG_CD 20394564
+LAND_MOVE1 201*
+LAND_MOVE2 분할되어 본번에 을 부함
+GRND_FLR_CNT -
+VL_RAT 201~205%
+BLDG_AREA 59.7564
+APTFNO 12
+DEAL_DD 5
+DPOS_GBN 2
+LAND_USE_LAW [포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[저촉]상대정화구역<학교보건법>(대전계산초등학교),[저촉]상대정화구역<학교보건법>(덕명중학교),[저촉]상대정화구역<학교보건법>(한밭대학교),[저촉]절대정화구역<학교보건법>(덕명중학교)
+SUM_AMT 28,000
+CNTL_YMD None
+BC_RAT 16~20%
+DNAME 덕명동
+BUILD_YEAR 2019
+JIBUN_NAME 대전광역시 유성구  덕명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+

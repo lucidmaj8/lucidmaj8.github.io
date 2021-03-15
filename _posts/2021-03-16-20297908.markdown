@@ -1,0 +1,223 @@
+---
+layout: post
+title: "대전광역시 유성구  봉명동 유성세움펠리피아주상복합 아파트 실거래가 정보"
+date: 2021-03-15 15:31:49 +0900
+categories: 아파트 실거래가
+---
+
+BOBN 466-2
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[접합]중로1류,[접합]소로1류
+DEAL_MM 03
+BLDG_NM 유성세움펠리피아주상복합
+BUBN None
+HO_CODE 319
+ROAD_LEN 25m미만
+BLDG_CD 20297908
+LAND_MOVE1 201*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 871~875%
+BLDG_AREA 54.6547
+APTFNO 16
+DEAL_DD 3
+DPOS_GBN C
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>
+SUM_AMT 18,000
+CNTL_YMD 20210310
+BC_RAT 61~65%
+DNAME 봉명동
+BUILD_YEAR 2014
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 466-2
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[접합]중로1류,[접합]소로1류
+DEAL_MM 03
+BLDG_NM 유성세움펠리피아주상복합
+BUBN None
+HO_CODE 321
+ROAD_LEN 25m미만
+BLDG_CD 20297908
+LAND_MOVE1 201*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 871~875%
+BLDG_AREA 54.6547
+APTFNO 16
+DEAL_DD 3
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>
+SUM_AMT 18,000
+CNTL_YMD None
+BC_RAT 61~65%
+DNAME 봉명동
+BUILD_YEAR 2014
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 466-2
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[접합]중로1류,[접합]소로1류
+DEAL_MM 02
+BLDG_NM 유성세움펠리피아주상복합
+BUBN None
+HO_CODE 233
+ROAD_LEN 25m미만
+BLDG_CD 20297908
+LAND_MOVE1 201*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 871~875%
+BLDG_AREA 84.956
+APTFNO 11
+DEAL_DD 22
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>
+SUM_AMT 30,000
+CNTL_YMD None
+BC_RAT 61~65%
+DNAME 봉명동
+BUILD_YEAR 2014
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 466-2
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[접합]중로1류,[접합]소로1류
+DEAL_MM 02
+BLDG_NM 유성세움펠리피아주상복합
+BUBN None
+HO_CODE 206
+ROAD_LEN 25m미만
+BLDG_CD 20297908
+LAND_MOVE1 201*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 871~875%
+BLDG_AREA 84.9786
+APTFNO 10
+DEAL_DD 17
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>
+SUM_AMT 28,900
+CNTL_YMD None
+BC_RAT 61~65%
+DNAME 봉명동
+BUILD_YEAR 2014
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 466-2
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[접합]중로1류,[접합]소로1류
+DEAL_MM 01
+BLDG_NM 유성세움펠리피아주상복합
+BUBN None
+HO_CODE 265
+ROAD_LEN 25m미만
+BLDG_CD 20297908
+LAND_MOVE1 201*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 871~875%
+BLDG_AREA 84.956
+APTFNO 12
+DEAL_DD 18
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>
+SUM_AMT 28,500
+CNTL_YMD None
+BC_RAT 61~65%
+DNAME 봉명동
+BUILD_YEAR 2014
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 466-2
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[접합]중로1류,[접합]소로1류
+DEAL_MM 01
+BLDG_NM 유성세움펠리피아주상복합
+BUBN None
+HO_CODE 180
+ROAD_LEN 25m미만
+BLDG_CD 20297908
+LAND_MOVE1 201*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 871~875%
+BLDG_AREA 65.9966
+APTFNO 8
+DEAL_DD 14
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>
+SUM_AMT 24,300
+CNTL_YMD None
+BC_RAT 61~65%
+DNAME 봉명동
+BUILD_YEAR 2014
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 466-2
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[접합]중로1류,[접합]소로1류
+DEAL_MM 01
+BLDG_NM 유성세움펠리피아주상복합
+BUBN None
+HO_CODE 388
+ROAD_LEN 25m미만
+BLDG_CD 20297908
+LAND_MOVE1 201*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 871~875%
+BLDG_AREA 65.1999
+APTFNO 22
+DEAL_DD 5
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>
+SUM_AMT 21,000
+CNTL_YMD None
+BC_RAT 61~65%
+DNAME 봉명동
+BUILD_YEAR 2014
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 466-2
+LAND_USE_NM [포함]일반상업지역,[포함]최저고도지구,[포함]방화지구,[포함]지구단위계획구역,[접합]중로1류,[접합]소로1류
+DEAL_MM 01
+BLDG_NM 유성세움펠리피아주상복합
+BUBN None
+HO_CODE 154
+ROAD_LEN 25m미만
+BLDG_CD 20297908
+LAND_MOVE1 201*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 871~875%
+BLDG_AREA 54.6547
+APTFNO 7
+DEAL_DD 2
+DPOS_GBN 2
+LAND_USE_LAW [포함]관광특구<관광진흥법>,[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]온천원보호지구<온천법>
+SUM_AMT 16,900
+CNTL_YMD None
+BC_RAT 61~65%
+DNAME 봉명동
+BUILD_YEAR 2014
+JIBUN_NAME 대전광역시 유성구  봉명동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+

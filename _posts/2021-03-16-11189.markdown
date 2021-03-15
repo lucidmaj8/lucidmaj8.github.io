@@ -1,0 +1,61 @@
+---
+layout: post
+title: "대전광역시 유성구  상대동 이지 아파트 실거래가 정보"
+date: 2021-03-15 15:31:59 +0900
+categories: 아파트 실거래가
+---
+
+BOBN 438-16
+LAND_USE_NM [포함]제2종일반주거지역,[접합]중로1류,[접합]소로2류
+DEAL_MM 01
+BLDG_NM 이지
+BUBN None
+HO_CODE 11
+ROAD_LEN 12m미만
+BLDG_CD 11189
+LAND_MOVE1 200*
+LAND_MOVE2 분할되어 본번에 을 부함
+GRND_FLR_CNT -
+VL_RAT 291~295%
+BLDG_AREA 59.3065
+APTFNO 1
+DEAL_DD 29
+DPOS_GBN 2
+LAND_USE_LAW [포함]상대정화구역<학교보건법>(예술고등학교),[포함]상대정화구역<학교보건법>(유성생명과학고등학교),[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[저촉]상대정화구역<학교보건법>(드림킨더유치원),[저촉]상대정화구역<학교보건법>(유성고등학교),[저촉]상대정화구역<학교보건법>(유성중학교),[저촉]절대정화구역<학교보건법>(드림킨더유치원)
+SUM_AMT 16,300
+CNTL_YMD None
+BC_RAT 21~25%
+DNAME 상대동
+BUILD_YEAR 2002
+JIBUN_NAME 대전광역시 유성구  상대동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 438-16
+LAND_USE_NM [포함]제2종일반주거지역,[접합]중로1류,[접합]소로2류
+DEAL_MM 01
+BLDG_NM 이지
+BUBN None
+HO_CODE 80
+ROAD_LEN 12m미만
+BLDG_CD 11189
+LAND_MOVE1 200*
+LAND_MOVE2 분할되어 본번에 을 부함
+GRND_FLR_CNT -
+VL_RAT 291~295%
+BLDG_AREA 59.3065
+APTFNO 5
+DEAL_DD 14
+DPOS_GBN 2
+LAND_USE_LAW [포함]상대정화구역<학교보건법>(예술고등학교),[포함]상대정화구역<학교보건법>(유성생명과학고등학교),[포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[저촉]상대정화구역<학교보건법>(드림킨더유치원),[저촉]상대정화구역<학교보건법>(유성고등학교),[저촉]상대정화구역<학교보건법>(유성중학교),[저촉]절대정화구역<학교보건법>(드림킨더유치원)
+SUM_AMT 17,000
+CNTL_YMD None
+BC_RAT 21~25%
+DNAME 상대동
+BUILD_YEAR 2002
+JIBUN_NAME 대전광역시 유성구  상대동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+

@@ -1,0 +1,115 @@
+---
+layout: post
+title: "대전광역시 유성구  지족동 인앤인 아파트 실거래가 정보"
+date: 2021-03-15 15:32:03 +0900
+categories: 아파트 실거래가
+---
+
+BOBN 834
+LAND_USE_NM [포함]일반상업지역,[저촉]지구단위계획구역,[저촉]지구단위계획구역,[접합]도로,[접합]중로2류,[접합]공공공지
+DEAL_MM 02
+BLDG_NM 인앤인
+BUBN None
+HO_CODE 41
+ROAD_LEN 25m이상
+BLDG_CD 20094356
+LAND_MOVE1 200*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 631~635%
+BLDG_AREA 99.94
+APTFNO 8
+DEAL_DD 27
+DPOS_GBN 2
+LAND_USE_LAW [포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]기타<택지개발촉진법>(노은택지개발완료)
+SUM_AMT 38,200
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 지족동
+BUILD_YEAR 2007
+JIBUN_NAME 대전광역시 유성구  지족동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 834
+LAND_USE_NM [포함]일반상업지역,[저촉]지구단위계획구역,[저촉]지구단위계획구역,[접합]도로,[접합]중로2류,[접합]공공공지
+DEAL_MM 02
+BLDG_NM 인앤인
+BUBN None
+HO_CODE 22
+ROAD_LEN 25m이상
+BLDG_CD 20094356
+LAND_MOVE1 200*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 631~635%
+BLDG_AREA 99.94
+APTFNO 3
+DEAL_DD 6
+DPOS_GBN 2
+LAND_USE_LAW [포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]기타<택지개발촉진법>(노은택지개발완료)
+SUM_AMT 36,900
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 지족동
+BUILD_YEAR 2007
+JIBUN_NAME 대전광역시 유성구  지족동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 834
+LAND_USE_NM [포함]일반상업지역,[저촉]지구단위계획구역,[저촉]지구단위계획구역,[접합]도로,[접합]중로2류,[접합]공공공지
+DEAL_MM 02
+BLDG_NM 인앤인
+BUBN None
+HO_CODE 21
+ROAD_LEN 25m이상
+BLDG_CD 20094356
+LAND_MOVE1 200*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 631~635%
+BLDG_AREA 99.94
+APTFNO 3
+DEAL_DD 2
+DPOS_GBN 2
+LAND_USE_LAW [포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]기타<택지개발촉진법>(노은택지개발완료)
+SUM_AMT 33,300
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 지족동
+BUILD_YEAR 2007
+JIBUN_NAME 대전광역시 유성구  지족동
+DONG_CODE 1
+ETC_STRCT 철근콘크리트구조
+
+
+BOBN 834
+LAND_USE_NM [포함]일반상업지역,[저촉]지구단위계획구역,[저촉]지구단위계획구역,[접합]도로,[접합]중로2류,[접합]공공공지
+DEAL_MM 01
+BLDG_NM 인앤인
+BUBN None
+HO_CODE 3
+ROAD_LEN 25m이상
+BLDG_CD 20094356
+LAND_MOVE1 200*
+LAND_MOVE2 번과 합병
+GRND_FLR_CNT -
+VL_RAT 631~635%
+BLDG_AREA 132.5
+APTFNO 10
+DEAL_DD 22
+DPOS_GBN 2
+LAND_USE_LAW [포함]가축사육제한구역<가축분뇨의관리및이용에관한법률>(전부제한구역),[포함]기타<택지개발촉진법>(노은택지개발완료)
+SUM_AMT 56,000
+CNTL_YMD None
+BC_RAT 66~70%
+DNAME 지족동
+BUILD_YEAR 2007
+JIBUN_NAME 대전광역시 유성구  지족동
+DONG_CODE 2
+ETC_STRCT 철근콘크리트구조
+
+
